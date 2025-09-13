@@ -15,6 +15,17 @@ Controls:
 - Mouse Click / Tap → Make the plane jump
 - ESC / Window Close → Exit the game
 
+Requirements:
+    - Python 3.10+
+    - Pygame 2.6+
+    - Assets folder structure:
+        graphics/
+            environment/
+            plane/
+            obstacles/
+            ui/
+        sounds/
+        font/
 
 Developer:
 Adham El-Anany
